@@ -1,0 +1,11 @@
+<sah:family xmlns:sah="http://training.mulesoft.com/sah">
+
+  <sah:member can_vote="true">
+
+    <sah:last-name>Sah</sah:last-name>
+
+    <sah:first-name>Manish</sah:first-name>
+
+    <sah:age>30</sah:age>
+
+  </sah:member>
